@@ -1,10 +1,10 @@
-permalink: /:year:month:day/:title
-url: #Your url here
+permalink: /:2026:08:23/:Writing-Enhanced Courses (WEC)
+url: https://writingisthinking.github.io/writing-enhanced-courses-wec/
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Writing-Enhanced Courses (WEC)
+description: Dr. Vyshali Manivannan's open-access WEC repository in protest of Pace University's removal of administrative release time and contractual protections for the WEC Director role.
 google_verification: null
 
 
