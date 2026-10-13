@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-permalink: /markdown-test-page
+permalink: https://writingisthinking.github.io/writing-enhanced-courses-wec/markdown-test-page
 tags: tag1 tag3
 ---
 
