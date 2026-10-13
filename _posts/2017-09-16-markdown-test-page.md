@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
+permalink: /404.html
 tags: tag1 tag3
 ---
 
