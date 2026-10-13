@@ -2,7 +2,6 @@
 layout: default
 title: "Lorem Ipsum"
 tags: tag1 tag2 tag3 tag4
-permalink: /writing-enhanced-courses-wec/2017/08/31/lorem-ipsum/
 ---
 
 ## Lorem Ipsum
