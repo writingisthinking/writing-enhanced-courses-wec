@@ -4,7 +4,7 @@ title: "Markdown Test Page"
 tags: tag1 tag3
 ---
 
-## Source: [Markdown Test Page](https://writingisthinking.github.io/writing-enhanced-courses-wec/2017-09-16-markdown-test-page)
+## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
 
 # <a name="top"></a>Markdown Test Page
 

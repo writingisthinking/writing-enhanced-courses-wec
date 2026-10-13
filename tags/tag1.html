@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: tag1
+tag: resources
 permalink: /tag/tag1/
 ---
