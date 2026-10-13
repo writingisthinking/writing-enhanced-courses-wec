@@ -1,4 +1,6 @@
-url: https://writingisthinking.github.io/writing-enhanced-courses-wec
+permalink: /blog/:title/
+baseurl: /writing-enhanced-courses-wec
+url: https://writingisthinking.github.io/
 
 # variables
 name: X-Files from Pace's Writing-Enhanced Course (WEC) Program 
