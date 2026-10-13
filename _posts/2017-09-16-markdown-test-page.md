@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-permalink: /404.html
+permalink: /writing-enhanced-courses-wec/2017-09-16-markdown-test-page/
 tags: tag1 tag3
 ---
 
