@@ -1,11 +1,11 @@
 resources:
   name: resources
 
-tag2:
+oral history:
   name: oral history
 
-tag3:
-  name: complaint activism
+complaint:
+  name: complaint
 
-tag4:
-  name: institutional betrayal
+academic bullies:
+  name: academic bullies
