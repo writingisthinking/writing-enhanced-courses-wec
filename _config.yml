@@ -1,6 +1,6 @@
 permalink: /:title
 baseurl: '/writing-enhanced-courses-wec'
-url: 'https://writingisthinking.github.io/'
+url: 'https://writingisthinking.github.io'
 
 # variables
 name: X-Files from Pace's Writing-Enhanced Course (WEC) Program 
