@@ -1,5 +1,5 @@
 permalink: /:title
-baseurl: '/writing-enhanced-courses-wec'
+baseurl: 'writing-enhanced-courses-wec'
 url: 'https://writingisthinking.github.io'
 
 # variables
